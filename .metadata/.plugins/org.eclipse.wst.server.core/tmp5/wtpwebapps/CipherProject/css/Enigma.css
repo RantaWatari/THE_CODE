@@ -1,0 +1,176 @@
+@CHARSET "UTF-8";
+
+/* baseColor */
+:root {
+	--main-color:#808080;
+	--accent-color:#e10000;
+	--dark-main-color:#2B5566;
+	--text-bright-color:#fff;
+}
+
+body{
+	margin: 0;
+	font-family:'メイリオ','Hiragino Kaku Gothic Pro',sans-serif;
+}
+
+/* ###################################	header	####################################### */
+
+header{
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 100;
+	width: 100%;
+	background-color: rgba(255,255,255,0.75);
+}
+
+.headA{
+	display: inline-block;
+	line-height: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: var(--accent-color);
+	color: #000000;
+	font-family: Monotype Corsiva;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+.header a:hover{
+	text-decoration: underline;
+}
+
+/*##################### .con ######################*/
+
+.con{
+	margin: 0px 0px;
+	color: #fff;
+	background-color: #333333;
+}
+
+.con .photoA{
+	min-height: 500px;
+	background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url('../img/Enigma-jpeg/enigma.jpg');
+	background-position: center;
+	background-size: cover;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	text-align:center;
+}
+
+.photoA h1{
+	margin-top: 0;
+	margin-bottom: 20px;
+	font-family: Monotype Corsiva;
+	font-size:40px;
+}
+
+.photoA strong{
+	margin-top: 0;
+	margin-bottom: 0px;
+	font-family: Monotype Corsiva;
+	font-size:15px;
+}
+
+.photoA ol{
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size:14px;
+}
+
+.con h3{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-size: 20px;
+}
+
+.con h4{
+	margin-top: 0px;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+.con p{
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-size: 12px;
+	line-height: 1.8;
+}
+
+
+.con .imgA {
+	 width: 400px;
+	 height: 225px;
+}
+
+.con .imgB {
+	 width: 550px;
+	 height: 322px;
+}
+
+
+.urlA{
+	display: inline-block;
+	margin-top: 20px;
+	padding: 7.5px 13px;
+	border: solid 2px currentColor;
+	border-radius: 6px;
+	background-color: #fff;
+	font-size:13px;
+	color: #000000;
+	text-decoration: none;
+}
+
+.con a:hover{
+	background-image: linear-gradient(rgba(0,0,0,0.25),rgba(0,0,0,0.25));
+}
+
+
+@media (min-width: 768px){
+	.con .container{
+		display: flex;
+		max-wigth: 1024px;
+		max-wigth: var(--large-width);
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.con .photoA{
+		flex: 3;
+	}
+
+	.con .text{
+		flex: 5;
+		padding: 50px 50px;
+		width: flex;
+		height: 500px;
+		overflow:auto;
+	}
+}
+
+
+/* ###################################	footer	####################################### */
+footer{
+	color: #fff;
+	background-color: #2B5566;
+}
+
+footer .container{
+	padding: 30px 25px;
+}
+
+.footA h2{
+	margin-top: 0px;
+	margin-bottom: 20px;
+	font-family: Monotype Corsiva;
+	font-size: 28px;
+}
+
+.footA p{
+	margin-top: 10px;
+	margin-bottom: 0px;
+	font-size: 13px;
+}
+
