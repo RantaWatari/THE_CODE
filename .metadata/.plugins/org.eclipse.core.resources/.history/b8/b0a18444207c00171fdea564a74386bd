@@ -61,19 +61,6 @@ text-decoration:none;
 padding:5px 10px;
 }
 
-.conA a{
-	display: inline-block;
-	padding: 3.5px 7.5px;
-	border: solid 2px currentColor;
-	border-radius: 6px;
-	background-color: #fff;
-	background-color: var(--accent-color);
-	color: #fff;
-	color: var(--text-bright-color);
-	font-size: 12px;
-	text-decoration: none;
-}
-
 .conA a:hover{
 	background-image:linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3));
 }

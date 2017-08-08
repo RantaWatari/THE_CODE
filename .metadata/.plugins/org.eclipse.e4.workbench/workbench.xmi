@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_SCDNEFpnEee51YA3qQfKgw" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_SCDNEVpnEee51YA3qQfKgw" bindingContexts="_SCPapFpnEee51YA3qQfKgw">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; tooltip=&quot;CipherProject/WebContent/index.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/index.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;server.xml&quot; tooltip=&quot;Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/server.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/server.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;Enigma.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/Enigma.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/Enigma.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;VigenereCipher.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/VigenereCipher.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/VigenereCipher.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;caesar.jpg&quot; tooltip=&quot;CaesarShiftCipher/WebContent/img/caesar.jpg&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CaesarShiftCipher/WebContent/img/caesar.jpg&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;home.css&quot; tooltip=&quot;CipherProject/WebContent/css/home.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/css/home.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;CaesarShiftCipher.css&quot; tooltip=&quot;CipherProject/WebContent/css/CaesarShiftCipher.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/css/CaesarShiftCipher.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;CaesarShiftCipher.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/CaesarShiftCipher.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/CaesarShiftCipher.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;Confederate_cipher_disk.jpg&quot; tooltip=&quot;VigenereCipher/WebContent/img/Confederate_cipher_disk.jpg&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/img/Confederate_cipher_disk.jpg&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;Result.css&quot; tooltip=&quot;VigenereCipher/WebContent/css/Result.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/css/Result.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;Top.css&quot; tooltip=&quot;VigenereCipher/WebContent/css/Top.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/css/Top.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;context.xml&quot; tooltip=&quot;Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/context.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/context.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;Unicode.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/Unicode.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/Unicode.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VigenereCipher.java&quot; tooltip=&quot;VigenereCipher/src/servlet/VigenereCipher.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/src/servlet/VigenereCipher.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Cipher.java&quot; tooltip=&quot;CipherProject/src/servlet/Cipher.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/src/servlet/Cipher.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;Top.css&quot; tooltip=&quot;VigenereCipher/WebContent/css/Top.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/css/Top.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;textInputScreen.css&quot; tooltip=&quot;CaesarShiftCipher/WebContent/css/textInputScreen.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CaesarShiftCipher/WebContent/css/textInputScreen.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;index.jsp&quot; tooltip=&quot;CipherProject/WebContent/index.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/index.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;server.xml&quot; tooltip=&quot;Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/server.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/server.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;Enigma.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/Enigma.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/Enigma.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;VigenereCipher.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/VigenereCipher.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/VigenereCipher.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;caesar.jpg&quot; tooltip=&quot;CaesarShiftCipher/WebContent/img/caesar.jpg&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CaesarShiftCipher/WebContent/img/caesar.jpg&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;home.css&quot; tooltip=&quot;CipherProject/WebContent/css/home.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/css/home.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;CaesarShiftCipher.css&quot; tooltip=&quot;CipherProject/WebContent/css/CaesarShiftCipher.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/css/CaesarShiftCipher.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;CaesarShiftCipher.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/CaesarShiftCipher.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/CaesarShiftCipher.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.browser.editor&quot; name=&quot;Confederate_cipher_disk.jpg&quot; tooltip=&quot;VigenereCipher/WebContent/img/Confederate_cipher_disk.jpg&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/img/Confederate_cipher_disk.jpg&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.css.core.csssource.source&quot; name=&quot;Result.css&quot; tooltip=&quot;VigenereCipher/WebContent/css/Result.css&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/WebContent/css/Result.css&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.wst.xml.ui.internal.tabletree.XMLMultiPageEditorPart&quot; name=&quot;context.xml&quot; tooltip=&quot;Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/context.xml&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Servers/&#x30ed;&#x30fc;&#x30ab;&#x30eb;&#x30fb;&#x30db;&#x30b9;&#x30c8; &#x306e; Tomcat8 (Java8)-config/context.xml&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jst.jsp.core.jspsource.source&quot; name=&quot;Unicode.jsp&quot; tooltip=&quot;CipherProject/WebContent/WEB-INF/jsp/Unicode.jsp&quot;>&#xD;&#xA;&lt;persistable path=&quot;/CipherProject/WebContent/WEB-INF/jsp/Unicode.jsp&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;VigenereCipher.java&quot; tooltip=&quot;VigenereCipher/src/servlet/VigenereCipher.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/VigenereCipher/src/servlet/VigenereCipher.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_SCDNEVpnEee51YA3qQfKgw" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_SCDNElpnEee51YA3qQfKgw" label="%trimmedwindow.label.eclipseSDK" x="-64" y="-11" width="1024" height="612">
@@ -140,10 +140,10 @@
       </menus>
       <toolbar xmi:id="_pG1lMGUZEeeu1L-f4uW-cw" elementId="org.eclipse.ui.cheatsheets.views.CheatSheetView" visible="false"/>
     </sharedElements>
-    <sharedElements xsi:type="advanced:Area" xmi:id="_SCGQllpnEee51YA3qQfKgw" elementId="org.eclipse.ui.editorss" selectedElement="_ZBkQIGBKEeeKTojX2A4QMw">
-      <children xsi:type="basic:PartSashContainer" xmi:id="_ZBkQIGBKEeeKTojX2A4QMw" selectedElement="_ZBkQIWBKEeeKTojX2A4QMw" horizontal="true">
-        <children xsi:type="basic:PartStack" xmi:id="_ZBkQIWBKEeeKTojX2A4QMw" elementId="PartStack@50d1d3" containerData="4968"/>
-        <children xsi:type="basic:PartStack" xmi:id="_SCGQl1pnEee51YA3qQfKgw" elementId="PartStack@fecd19" toBeRendered="false" containerData="5032">
+    <sharedElements xsi:type="advanced:Area" xmi:id="_SCGQllpnEee51YA3qQfKgw" elementId="org.eclipse.ui.editorss" selectedElement="_NWWhIHwgEee7ldb40Aersw">
+      <children xsi:type="basic:PartSashContainer" xmi:id="_NWWhIHwgEee7ldb40Aersw" selectedElement="_NWWhIXwgEee7ldb40Aersw" horizontal="true">
+        <children xsi:type="basic:PartStack" xmi:id="_NWWhIXwgEee7ldb40Aersw" elementId="PartStack@afc94c" containerData="5000"/>
+        <children xsi:type="basic:PartStack" xmi:id="_SCGQl1pnEee51YA3qQfKgw" elementId="PartStack@fecd19" toBeRendered="false" containerData="5000">
           <children xsi:type="basic:Part" xmi:id="_SCGQmFpnEee51YA3qQfKgw" elementId="org.eclipse.e4.ui.compatibility.editor" toBeRendered="false" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" closeable="true">
             <tags>Editor</tags>
             <tags>org.eclipse.wst.css.core.csssource.source</tags>
@@ -269,6 +269,7 @@
       <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;view/>"/>
       <tags>View</tags>
       <tags>categoryTag:&#x4e00;&#x822c;</tags>
+      <tags>highlighted</tags>
       <menus xmi:id="_SCIFv1pnEee51YA3qQfKgw" elementId="org.eclipse.ui.console.ConsoleView">
         <tags>ViewMenu</tags>
         <tags>menuContribution:menu</tags>
@@ -385,7 +386,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_SCJ6yFpnEee51YA3qQfKgw" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_tGoJwHv9EeenKYKTEy0Tew" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="&#x30a8;&#x30c7;&#x30a3;&#x30bf;&#x30fc;&#x306e;&#x30d4;&#x30f3;&#x7559;&#x3081;" type="Check" command="_SClYnlpnEee51YA3qQfKgw"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_aCIFoHwfEee7ldb40Aersw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="&#x30a8;&#x30c7;&#x30a3;&#x30bf;&#x30fc;&#x306e;&#x30d4;&#x30f3;&#x7559;&#x3081;" type="Check" command="_SClYnlpnEee51YA3qQfKgw"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_SCJ601pnEee51YA3qQfKgw" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -425,53 +426,53 @@
     <trimBars xmi:id="_SCJ681pnEee51YA3qQfKgw" elementId="org.eclipse.ui.trim.vertical1" side="Left">
       <children xsi:type="menu:ToolBar" xmi:id="_SCJ69FpnEee51YA3qQfKgw" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tGr0IHv9EeenKYKTEy0Tew" elementId="new.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCIFo3wfEee7ldb40Aersw" elementId="new.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tGtCQHv9EeenKYKTEy0Tew" elementId="newWizardDropDown">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCRPkHwfEee7ldb40Aersw" elementId="newWizardDropDown">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tGu3cHv9EeenKYKTEy0Tew" elementId="new.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCRPkXwfEee7ldb40Aersw" elementId="new.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tGwFkHv9EeenKYKTEy0Tew" elementId="save.group" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCRPknwfEee7ldb40Aersw" elementId="save.group" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tGxTsHv9EeenKYKTEy0Tew" elementId="save">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCRPk3wfEee7ldb40Aersw" elementId="save">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tG5PgHv9EeenKYKTEy0Tew" elementId="saveAll">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCRPlHwfEee7ldb40Aersw" elementId="saveAll">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tG7rwHv9EeenKYKTEy0Tew" elementId="save.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCbAkHwfEee7ldb40Aersw" elementId="save.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_tG_WIHv9EeenKYKTEy0Tew" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="&#x5370;&#x5237;" command="_SCl_rVpnEee51YA3qQfKgw"/>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tHAkQHv9EeenKYKTEy0Tew" elementId="print.ext" visible="false">
+        <children xsi:type="menu:HandledToolItem" xmi:id="_aCbAkXwfEee7ldb40Aersw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="&#x5370;&#x5237;" command="_SCl_rVpnEee51YA3qQfKgw"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCbAknwfEee7ldb40Aersw" elementId="print.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tHByYHv9EeenKYKTEy0Tew" elementId="build.group">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCbAk3wfEee7ldb40Aersw" elementId="build.group">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tHDAgHv9EeenKYKTEy0Tew" elementId="build.ext" visible="false">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCbAlHwfEee7ldb40Aersw" elementId="build.ext" visible="false">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_tHDnkHv9EeenKYKTEy0Tew" elementId="additions">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_aCbAlXwfEee7ldb40Aersw" elementId="additions">
           <tags>Opaque</tags>
         </children>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_SCKh1FpnEee51YA3qQfKgw" elementId="org.eclipse.debug.ui.launchActionSet">
         <tags>Draggable</tags>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_vLOewHv9EeenKYKTEy0Tew" elementId="debug">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_anCJgHwfEee7ldb40Aersw" elementId="debug">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_vLPs4Hv9EeenKYKTEy0Tew" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_anCJgXwfEee7ldb40Aersw" elementId="org.eclipse.debug.internal.ui.actions.DebugDropDownAction">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_vLQT8Hv9EeenKYKTEy0Tew" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_anCJgnwfEee7ldb40Aersw" elementId="org.eclipse.debug.internal.ui.actions.RunDropDownAction">
           <tags>Opaque</tags>
         </children>
-        <children xsi:type="menu:DirectToolItem" xmi:id="_vLRiEHv9EeenKYKTEy0Tew" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
+        <children xsi:type="menu:DirectToolItem" xmi:id="_anCJg3wfEee7ldb40Aersw" elementId="org.eclipse.ui.externaltools.ExternalToolMenuDelegateToolbar">
           <tags>Opaque</tags>
         </children>
       </children>
