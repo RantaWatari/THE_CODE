@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+:root {
+--main-color:gray;
+--accent-color:#000;
+--dark-main-color:#2B5566;
+--text-bright-color:#fff;
+}
+
+body {
+font-family:'メイリオ','Hiragino Kaku Gothic Pro',sans-serif;
+margin:0;
+}
+
+.headA {
+display:inline-block;
+line-height:35px;
+padding-left:15px;
+padding-right:15px;
+background-color:var(--main-color);
+color:#000;
+font-family:Monotype Corsiva;
+font-size:18px;
+text-decoration:none;
+}
+
+.conA {
+display:flex;
+align-items:center;
+justify-content:center;
+height:100vh;
+min-height:600px;
+background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.30)), url('../img/Confederate_cipher_disk.jpg');
+background-position:center;
+background-size:cover;
+color:var(--text-bright-color);
+text-align:center;
+}
+
+.conA h1 {
+margin-top:0;
+margin-bottom:20px;
+font-family:Monotype Corsiva;
+font-size:48px;
+}
+
+.conA p {
+margin-top:0;
+margin-bottom:0;
+font-size:15px;
+}
+
+.inputA input {
+display:inline-block;
+border:solid 2px currentColor;
+border-radius:6px;
+background-color:var(--accent-color);
+color:var(--text-bright-color);
+font-size:12px;
+text-decoration:none;
+padding:5px 10px;
+}
+
+.inputA input:hover {
+background-image:linear-gradient(rgba(255,255,255,0.3),rgba(255,255,255,0.3));
+}
+
+.conA a {
+display:inline-block;
+border-radius:6px;
+background-color:var(--accent-color);
+color:var(--text-bright-color);
+font-size:12px;
+text-decoration:none;
+padding:2.5px 5px;
+}
+
+.header a:hover,.conA a:hover {
+text-decoration:underline;
+}
